@@ -14,7 +14,7 @@ const Banner = (props) => {
       />
       <div className="absolute top-1/2 w-full text-center">
         <p className="text-sm font-medium sm:text-lg">Not sure where to go?</p>
-        <button className="my-3 rounded-full bg-white px-10 py-4 font-semibold text-purple-500 shadow-sm transition duration-300 hover:shadow-lg active:scale-90  ">
+        <button className="my-3 rounded-full bg-white px-10 py-4 font-semibold text-orange-500 shadow-sm transition duration-300 hover:shadow-lg active:scale-90  ">
           Click Here
         </button>
       </div>
