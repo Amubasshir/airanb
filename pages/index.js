@@ -1,3 +1,4 @@
+import Banner from 'componemt/components/Banner';
 import Header from 'componemt/components/Header';
 import { Inter } from 'next/font/google';
 import Head from 'next/head';
@@ -14,6 +15,7 @@ export default function Home() {
         <link rel="icon" href="https://i.ibb.co/1RTSVhw/airanb-favicon.png" />
       </Head>
       <Header />
+      <Banner />
     </div>
   );
 }
